@@ -1,6 +1,5 @@
 class Solution:
     def findLargest(self, n, s):
-        # code here
         if s>9*n:
             return '-1'
         
